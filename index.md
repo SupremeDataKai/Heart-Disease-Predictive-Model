@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## By: Clifton Heggins Sr.
 
-You can use the [editor on GitHub](https://github.com/SupremeDataKai/Heart-Disease-Predictive-Model/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SupremeDataKai/Heart-Disease-Predictive-Model/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# [Heart Disease Prediction: Supervised Learning Classification](https://supremedatakai.github.io/Projects/HeartDisease.html)
+## Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worldwide. Four out of 5CVD deaths are due to heart attacks and strokes, and one-third of these deaths occur prematurely in people under 70 years of age. Heart failure is a common event caused by CVDs and this dataset contains 11 features that can be used to predict a possible heart disease.
+## People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model can be of great help.
+### Skills and Tools
+  - **Exploratory Data Analysis**
+  - **Data Preprocessing**  
+  - **Logistic Regression**
+  - **Addressed Multicollinearity**
+  - **Finding optimal threshold using AUC-ROC curve** 
+  - **Decision Trees** 
+  - **Pruning**
+ 
+ ![](/images/HD1.png)
+ ![](/images/HD2.png)
+ ![](/images/HD3.png)
+ ![](/images/HD4.png)
+ ![](/images/HD5.png)
